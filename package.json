@@ -1,0 +1,23 @@
+{
+  "name": "mod3",
+  "version": "1.0.0",
+  "description": "Weather Here app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "API",
+    "location"
+  ],
+  "author": "pescalantej",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nedb": "^1.8.0",
+    "node-fetch": "^3.2.4"
+  },
+  "type": "module"
+}

@@ -1,0 +1,11 @@
+/* Some syle for paragraphs. */
+p {
+  padding: 10px;
+  background-color: deepskyblue;
+  width: 400px;
+}
+
+#checkinMap {
+  height: 400px;
+  width: 600px;
+  }
